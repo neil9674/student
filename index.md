@@ -4,7 +4,7 @@ title: I'm Neil Chandra
 hide: true
 ---
 
-Hi! My name is Neil Chandra
+Hi! My name is Neil Chandra.
 
 ### Development Environment
 
